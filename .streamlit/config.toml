@@ -8,10 +8,3 @@ secondaryBackgroundColor = "#FEE715"
 textColor = "#e91730"  
 
 
-# Set the layout
-[server]
-port = 8501
-headless = false
-enableCORS = false
-enableXsrfProtection = true
-
